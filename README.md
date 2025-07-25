@@ -7,7 +7,8 @@
 
 ## 🌀 Complete Workflow (Realistic)
 
-<img width="240" height="596" alt="image" src="https://github.com/user-attachments/assets/b5ab5972-92ee-4485-8cc3-94003183005b" />
+![WhatsApp Image 2025-07-22 at 18 02 17_fd5799de](https://github.com/user-attachments/assets/7cd36427-2efa-489e-be69-451415dc8d79)
+
 
 
 ### 👤 Ek Typical Interview Flow:
